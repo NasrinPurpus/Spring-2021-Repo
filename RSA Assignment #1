@@ -1,0 +1,60 @@
+//Today you will decrypting this PGP key. PGP stands for Pretty Good Privacy (believe it or not) 
+//This is a tool mostly used in viruses to hard-code themselves onto either a server or worse, a hosts' PC.
+//Hint: the pass-phrase is "telly"
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBF/8hTMBCACsAk9hTbEc263yk8gcxEyMg4Z94Y4l5UUANNbRoqJrFfNAOfJ9
+X6QK6azfC+740hLJkf/5To78rmhEhF3aNrWMXarG/55F6gJsog7sr0/m687xsXxP
+wrp4is0dVqmyGzsOhKzzleffBI1VlCthdk0fMRcQ1sSOnHVy/NN7dJZ2+0qU2Tfz
+ktcMFwxFqwcCGdtLZ27GGzT8XqviFsLpjXXdcG1graQL+eeaDxG1p3qod16bsNPN
+R23Eq+bXSR8C7utfiowXG/8ZZ2j5OObKS6CyyO89EwDE1YW9oEyquYCWDNjLX8WS
+a5BT3kQVBvc/TBy5dOjMJAfKUBKWOC2iiFaVABEBAAG0GGdsb2JhbGNsYW5zd2Fn
+QGdtYWlsLmNvbYkBHAQQAQIABgUCX/yFMwAKCRCh3dRIG2/t4roGB/0ayFtQnu90
+CUWDjR/wFL1E2VaUuaZ89ydW0dGHhXbCJ+NfXC254eUmUIiG5brJ2M6w8T4So0H5
+zloFxXWStCn2kk1jkaOUTvrAhmyndPXzrSRbYo1QxR95MEdT8hTaT5SbOVIKstvH
+H5KDx3pH9kANa2gaKnquNHWskPQV5QQcRIjhpPtsa2qlS6pFXk/M1PS+HfWkQzqs
+Ph1Nj1MbdD2O2xbmW+DeXy0ziJm3uAmeCrFeaQHZdh5z+rTdHARXiD4IwQHlizOq
++8ouGfMVaT1JE78+95L7RP2mi/NN4UjRpvWL7KrCdzjerb72XtMQL3yr0ahljSmR
+e2vGM1qNjeYv
+=UbhC
+-----END PGP PUBLIC KEY BLOCK-----
+
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+lQOsBF/8hTMBCACsAk9hTbEc263yk8gcxEyMg4Z94Y4l5UUANNbRoqJrFfNAOfJ9
+X6QK6azfC+740hLJkf/5To78rmhEhF3aNrWMXarG/55F6gJsog7sr0/m687xsXxP
+wrp4is0dVqmyGzsOhKzzleffBI1VlCthdk0fMRcQ1sSOnHVy/NN7dJZ2+0qU2Tfz
+ktcMFwxFqwcCGdtLZ27GGzT8XqviFsLpjXXdcG1graQL+eeaDxG1p3qod16bsNPN
+R23Eq+bXSR8C7utfiowXG/8ZZ2j5OObKS6CyyO89EwDE1YW9oEyquYCWDNjLX8WS
+a5BT3kQVBvc/TBy5dOjMJAfKUBKWOC2iiFaVABEBAAH/AwMCHUXJ7YEiAMFgYyi/
+nyMRVqEJ7GqUsCgcTkg+jNlMSqy1co2slIB2nvSpE3E7A0HRJTtxLBI1kCSHHHLs
+A4Eir3c4z5QNereXRwhgvwWilsP9QznJI6YaodqGDmHXw2p3iUvTthd6gYqHXQkC
+btpBx4iSS3hXYNR4i2hoRXXvI/MurWd9PhQuwl9iP7oIhgnyGMZXJwidE2S/xEWU
+AGCOIbJrP+qXIJtke6ks8Mu7eSSjEOWr2TxGomLbJbccXz0y567gO4XaJs9JIDVE
+tjCXJnAFieLW1hNDTAq7YaKW1Vjfewo7LNrUWcfcOkd5630eVk+kiONu2vJ0hejM
+VWXNwluKL1nOyw0hxbciay21wITfXQv9bEZ++0O0odjP9Rmz5zNb9ly/M5Jq81Hj
+MNcPdqhBO/7W8QwoFViqGFgaj4EdtRuFYF7G/2sz9UYU1JcXbTVEnAueBBJb1uyp
+WcfIR56VTTZ4xEL+7iEzhCoHSaEcsd6w5pl9P3edUOzGu6nr+yHbXXJ/WJpec/x6
+GfX+kWLkIn78DJBQ14xnJg1ltrhRxCdP6rEXWYNkb+5uvFybDdN4PyGHP0s+/GYg
+n1+Gq7AsspTimmWT1/OGrvH465UDgMRDAfIMMkcW9gbsiUdaUwPed53QbGPhrSjZ
+PAvUj+1N8fkxdFtt1w37poCd0vxw7PpJYPe/JGcgMSh1T1g96Fj5oFTC8em5lROd
+tvmRNu5Qdg7xKq6G9FUyvQyCSPeNMEUVte3COe5/rbvsO1WTbZMAHgB8FVUVyZ4F
+ZjLOiSe/859La1sBOxF20FusCKs3oa6kpIwF2nlfl2mF/Q8eG84cnWfgpKpp5j8R
+N2hAAak6ggV2GOEEg0cALP3M7V7+fJFWi/OJphBYZ7QYZ2xvYmFsY2xhbnN3YWdA
+Z21haWwuY29tiQEcBBABAgAGBQJf/IUzAAoJEKHd1Egbb+3iugYH/RrIW1Ce73QJ
+RYONH/AUvUTZVpS5pnz3J1bR0YeFdsIn419cLbnh5SZQiIblusnYzrDxPhKjQfnO
+WgXFdZK0KfaSTWORo5RO+sCGbKd09fOtJFtijVDFH3kwR1PyFNpPlJs5Ugqy28cf
+koPHekf2QA1raBoqeq40dayQ9BXlBBxEiOGk+2xraqVLqkVeT8zU9L4d9aRDOqw+
+HU2PUxt0PY7bFuZb4N5fLTOImbe4CZ4KsV5pAdl2HnP6tN0cBFeIPgjBAeWLM6r7
+yi4Z8xVpPUkTvz73kvtE/aaL803hSNGm9YvsqsJ3ON6tvvZe0xAvfKvRqGWNKZF7
+a8YzWo2N5i8=
+=Z3cs
+-----END PGP PRIVATE KEY BLOCK-----
+
+//Each of these when decrypted will reveal a verification code, take that same code and upload it to OneDrive for full credits.
+//Good luck!
+
+//SkyCyberSec Team
